@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shubh2221
+- 👋 Hi, I’m @SHUBHAM
 - 👀 I’m interested in DATA SCIENCE
 - 🌱 I’m currently learning PYTHON
 - 💞️ I’m looking to collaborate on DATA SCIENCE PROJECTS 
